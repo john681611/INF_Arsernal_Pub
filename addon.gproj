@@ -3,7 +3,7 @@ GameProject {
  GUID "6A2159C09D8E51EF"
  TITLE "INFArsernal_Pub"
  Dependencies {
-  "65D3460733822D72" "58D0FB3206B6F859"
+  "65D3460733822D72" "58D0FB3206B6F859" "61C94A1E4456B722"
  }
  Configurations {
   GameProjectConfig PC {
