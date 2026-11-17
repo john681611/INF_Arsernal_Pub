@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{B0E72C618DA50981}Configs/EntityCatalog/Pub/Attachments_Optics_Misc.conf"
+ Configurations {
+  CONFResourceClass PC {
+  }
+  CONFResourceClass XBOX_ONE : PC {
+  }
+  CONFResourceClass XBOX_SERIES : PC {
+  }
+  CONFResourceClass PS4 : PC {
+  }
+  CONFResourceClass PS5 : PC {
+  }
+  CONFResourceClass HEADLESS : PC {
+  }
+ }
+}

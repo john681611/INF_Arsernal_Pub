@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{7DE61518F8B5D2F2}Configs/EntityCatalog/Pub/Clothing_Tshirts_Reforger.conf"
+ Configurations {
+  CONFResourceClass PC {
+  }
+  CONFResourceClass XBOX_ONE : PC {
+  }
+  CONFResourceClass XBOX_SERIES : PC {
+  }
+  CONFResourceClass PS4 : PC {
+  }
+  CONFResourceClass PS5 : PC {
+  }
+  CONFResourceClass HEADLESS : PC {
+  }
+ }
+}

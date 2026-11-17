@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{1E4CAC4EB4EF54F3}Configs/EntityCatalog/Pub/Ammo_Pistols_Reforger.conf"
+ Configurations {
+  CONFResourceClass PC {
+  }
+  CONFResourceClass XBOX_ONE : PC {
+  }
+  CONFResourceClass XBOX_SERIES : PC {
+  }
+  CONFResourceClass PS4 : PC {
+  }
+  CONFResourceClass PS5 : PC {
+  }
+  CONFResourceClass HEADLESS : PC {
+  }
+ }
+}

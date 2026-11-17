@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{00C3D7BCBDB798B9}Configs/EntityCatalog/Pub/Clothing_Footwear_WCS.conf"
+ Configurations {
+  CONFResourceClass PC {
+  }
+  CONFResourceClass XBOX_ONE : PC {
+  }
+  CONFResourceClass XBOX_SERIES : PC {
+  }
+  CONFResourceClass PS4 : PC {
+  }
+  CONFResourceClass PS5 : PC {
+  }
+  CONFResourceClass HEADLESS : PC {
+  }
+ }
+}

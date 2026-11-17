@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{376C73AA4CFD2DDD}Configs/EntityCatalog/Pub/Ammo_Launchers_MISC.conf"
+ Configurations {
+  CONFResourceClass PC {
+  }
+  CONFResourceClass XBOX_ONE : PC {
+  }
+  CONFResourceClass XBOX_SERIES : PC {
+  }
+  CONFResourceClass PS4 : PC {
+  }
+  CONFResourceClass PS5 : PC {
+  }
+  CONFResourceClass HEADLESS : PC {
+  }
+ }
+}
